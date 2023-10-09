@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(127, 255, 212, 0.5);
+    width: auto;
+    height: auto;
+}
+button{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: blue;
+    border-radius: 7px;
+    padding: 10px;
+    border: none;
+    color: white;
+    width: 300px;
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+
+#container{
+    background-color: whitesmoke;
+    width: 44%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 6%;
+    height: auto;
+}
+img{
+    border-radius: 10px;
+}
